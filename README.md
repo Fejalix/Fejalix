@@ -63,12 +63,11 @@ I enjoy turning ideas into working products, improving existing tools and automa
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=TON_USERNAME\&show_icons=true\&theme=transparent\&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TON_USERNAME\&layout=compact\&theme=transparent\&hide_border=true)
+[![GitHub](https://img.shields.io/badge/GitHub-View%20my%20repositories-181717?style=for-the-badge&logo=github)](https://github.com/fejalix)
 
 ---
 
 ### 💡 Build. Test. Learn. Improve.
+
